@@ -1,2 +1,2 @@
 # JavaDIO
-Estudo Java com atividades da DIO
+Estudo do fundamentos de Java com atividades da Digital Innovation One
